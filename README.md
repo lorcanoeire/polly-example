@@ -3,7 +3,7 @@ A simple HTML5 client and server integrated with AWS Polly
 
 The following is an example provided by AWS on their docs site [here](http://docs.aws.amazon.com/polly/latest/dg/examples-python.html).
 
-The below is quick guide and how to get setup.
+The below is a quick guide and how to get set up.
 
 # Set up virtualenv
 
@@ -13,7 +13,7 @@ Install virtualenv
 pip install virtualenv
 ```
 
-Create virtualenv environment
+Create virtualenv environmenta
 ```
 virtualenv env
 ```
@@ -24,7 +24,7 @@ Activate new virtualenv environment
 source env/bin/activate
 ```
 
-# Install dependencies
+# Install dependenciesssa
 
 e.g.
 
@@ -55,4 +55,5 @@ open http://localhost:8000/index.html
 ```
 
 Select your voice, type your text, and hear the response!
+
 Note: At the time of writing this is only available in selected regions
